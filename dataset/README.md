@@ -2,6 +2,8 @@
 
 You can download the Han-solo dataset from [https://zenodo.org/record/8196608](https://zenodo.org/record/8196608).
 
+CC-BY 4.0 license
+
 ## Cite as
 
 > Wannaphong Phatthiyaphaibun. (2023). Han-solo: Thai syllable segmenter (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8196608

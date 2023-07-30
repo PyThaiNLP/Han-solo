@@ -5,6 +5,8 @@ This work wants to create a Thai syllable segmenter that can work in the Thai so
 
 Dataset: [Han-solo: Thai syllable segmenter](https://zenodo.org/record/8196608)
 
+Google colab: [Demo](https://colab.research.google.com/github/pythainlp/Han-solo/blob/main/using.ipynb) 
+
 
 ## Dataset
 
@@ -35,6 +37,16 @@ The model file: han_solo.crfsuite
    macro avg       1.00      1.00      1.00     90546
 weighted avg       1.00      1.00      1.00     90546
 ```
+
+## How to use?
+
+- See using.ipynb
+- PyThaiNLP v4.1+
+
+## License
+
+- CC-BY 4.0 license (for Dataset)
+- Apache License Version 2.0 (for Source code and model)
 
 ## Cite as
 
