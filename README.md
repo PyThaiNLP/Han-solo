@@ -17,7 +17,7 @@ This work uses 2 datasets:
 
 ## Model
 
-This work uses the CRE model that uses the same feature from [ssg](https://github.com/ponrawee/ssg) to the training model.
+This work uses the CRF model that uses the same feature from [ssg](https://github.com/ponrawee/ssg) to the training model.
 
 You can see the training notebook from train.ipynb.
 
